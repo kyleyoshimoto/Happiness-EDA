@@ -1,7 +1,6 @@
 # Happiness EDA
  Exploratory Data Analysis on a world happiness report released by the UN.
-![image](https://github.com/kyleyoshimoto/Happiness-EDA/assets/107731465/916293c0-ebc4-435d-85c2-7505f95b3b8c)
-
+![image](https://github.com/kyleyoshimoto/Happiness-EDA/assets/107731465/dac7dcaf-7b37-4a58-8e74-4e1004d9f889)
 ## Overview
  This exploratory data analysis (EDA) examines the factors influencing happiness scores, as measured by the United Nations (UN), across various countries. The analysis includes a comprehensive review of the data, visualization of key insights, and exploration of correlations between happiness scores and economic, health, freedom, family, and corruption indicators.
 
